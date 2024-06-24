@@ -1,0 +1,7 @@
+
+ 
+java:S1128"]Remove this unused import 'org.springframework.boot.autoconfigure.jdbc.DataSourceProperties'.(×¶Ó³8¿áÈÐƒ2J$05684a46-8a5b-4cbe-8605-703f77416340
+£
+java:S1128"`Remove this unused import 'org.springframework.boot.context.properties.ConfigurationProperties'.(¦Õ¸Ç8¿áÈÐƒ2J$a062ed21-5a88-4dde-94eb-7be87fe56387
+Ž
+java:S1128"KRemove this unused import 'org.springframework.context.annotation.Primary'.(“ð›ß8¿áÈÐƒ2J$d72a7f91-717b-400e-96c0-5463ad541da9

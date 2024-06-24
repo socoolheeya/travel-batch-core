@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travel-batch-core/travel-batch.travel-batch-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/travel-batch-core/travel-batch.travel-batch-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travel-domain-rds/travel-batch.travel-domain-rds.main.iml" filepath="$PROJECT_DIR$/.idea/modules/travel-domain-rds/travel-batch.travel-domain-rds.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travel-domain-rds/travel-batch.travel-domain-rds.test.iml" filepath="$PROJECT_DIR$/.idea/modules/travel-domain-rds/travel-batch.travel-domain-rds.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travel-system-core/travel-batch.travel-system-core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/travel-system-core/travel-batch.travel-system-core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travel-yaml-importer/travel-batch.travel-yaml-importer.main.iml" filepath="$PROJECT_DIR$/.idea/modules/travel-yaml-importer/travel-batch.travel-yaml-importer.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/travel-yaml-importer/travel-batch.travel-yaml-importer.test.iml" filepath="$PROJECT_DIR$/.idea/modules/travel-yaml-importer/travel-batch.travel-yaml-importer.test.iml" />
+    </modules>
+  </component>
+</project>
