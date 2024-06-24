@@ -312,3 +312,7 @@ G.idea/sonarlint/issuestore/5/f/5f330d12ab3f319f9e84360e40401ef923b8715c,2\1\21
 Q.idea/sonarlint/securityhotspotstore/9/4/94e6fc09b46570743decd599c606bffc5e5d6fdc,f\0\f0824bc20e1ecc9a807b9bd1b26089b1aa79a48e
 Å
 Q.idea/sonarlint/securityhotspotstore/9/5/95998038c31e7eb7e7e8810147676996ac1eaf04,d\f\dff672479d9a48d00190769e23b5af8a58821978
+N
+travel-domain-rds/build.gradle,e\c\ec189c4100523aed0f34533bb1c4026e4ca2b72e
+O
+travel-system-core/build.gradle,0\7\07709b0e541b4c6c1e64407d02b4ac8b366597d1
