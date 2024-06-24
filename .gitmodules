@@ -1,0 +1,3 @@
+[submodule "travel-batch-core"]
+	path = travel-batch-core
+	url = https://github.com/socoolheeya/travel-batch-core.git
